@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE events SYSTEM "events.dtd">
+<events>
+  <event>
+    <title>Tech Fest 2026</title>
+    <date>2026-11-15</date>
+    <venue>Main Auditorium</venue>
+    <description>Annual technical festival with coding contests and project demos.</description>
+  </event>
+  <event>
+    <title>Career Guidance Seminar</title>
+    <date>2026-11-22</date>
+    <venue>Seminar Hall 2</venue>
+    <description>Industry experts talk about internships and placements.</description>
+  </event>
+  <event>
+    <title>Annual Sports Meet</title>
+    <date>2026-12-05</date>
+    <venue>College Ground</venue>
+    <description>Inter-department sports competitions and prize distribution.</description>
+  </event>
+</events>
